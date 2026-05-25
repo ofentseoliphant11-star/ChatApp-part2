@@ -1,0 +1,56 @@
+{
+  "messageID": "3178367794",
+  "messageNumber": 1,
+  "recipient": "+27678345423",
+  "message": "Hvhgvahvshadvhjssvhjsavdsvsdakndjkjsdhjsbds",
+  "hash": "31:1:HVHGVAHVSHADVHJSSVHJSAVDSVSDAKNDJKJSDHJSBDSHVHGVAHVSHADVHJSSVHJSAVDSVSDAKNDJKJSDHJSBDS",
+  "timestamp": "2026-05-25 12:11:35"
+},
+{
+  "messageID": "2926547381",
+  "messageNumber": 1,
+  "recipient": "+27815121028",
+  "message": "hello man cmon man",
+  "hash": "29:1:HELLOMAN",
+  "timestamp": "2026-05-25 12:20:45"
+},
+{
+  "messageID": "6135783004",
+  "messageNumber": 2,
+  "recipient": "+27815121028",
+  "message": "evev",
+  "hash": "61:2:EVEVEVEV",
+  "timestamp": "2026-05-25 12:46:01"
+},
+{
+  "messageID": "6005165717",
+  "messageNumber": 2,
+  "recipient": "+27815121028",
+  "message": "vwsvbg",
+  "hash": "60:2:VWSVBGVWSVBG",
+  "timestamp": "2026-05-25 13:32:26"
+},
+{
+  "messageID": "3924810649",
+  "messageNumber": 3,
+  "recipient": "+27815121028",
+  "message": "wgvwgv",
+  "hash": "39:3:WGVWGVWGVWGV",
+  "timestamp": "2026-05-25 13:32:45"
+},
+{
+  "messageID": "8294803233",
+  "messageNumber": 1,
+  "recipient": "+27815121028",
+  "message": "hyfu",
+  "hash": "82:1:HYFUHYFU",
+  "timestamp": "2026-05-25 13:43:04"
+},
+{
+  "messageID": "3171594874",
+  "messageNumber": 1,
+  "recipient": "+27123456789",
+  "message": "Store this message",
+  "hash": "31:1:STOREMESSAGE",
+  "timestamp": "2026-05-25 14:02:55"
+},
